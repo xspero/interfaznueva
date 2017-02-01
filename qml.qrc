@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>res/44224-200.png</file>
+        <file>res/background.jpg</file>
+        <file>res/camara.png</file>
+        <file>res/foco.png</file>
+        <file>res/icon_camaraapa.png</file>
+        <file>res/icon_cortina.png</file>
+        <file>res/icon_cortina_apa.png</file>
+        <file>res/icon_dimerc.png</file>
+        <file>res/icon_dimerc_apa.png</file>
+        <file>res/icon_foco_apa.png</file>
+        <file>res/icon_rgb.png</file>
+        <file>res/logo.png</file>
+        <file>res/logo_mini.png</file>
+        <file>res/movie-projector-icon-63469.png</file>
+        <file>res/offmaterial.png</file>
+        <file>res/Page2.qml</file>
+        <file>res/Page2Form.ui.qml</file>
+        <file>res/Page3.qml</file>
+        <file>res/Page3Form.ui.qml</file>
+        <file>res/Projector-icon.png</file>
+        <file>Page2.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>Page3.qml</file>
+        <file>Page3Form.ui.qml</file>
+        <file>res/icons (1).png</file>
+        <file>res/icons (2).png</file>
+        <file>res/icons (3).png</file>
+        <file>res/rgb select.png</file>
+        <file>res/abajoicono.png</file>
+        <file>res/arribaicono.png</file>
+        <file>res/apagado.png</file>
+        <file>res/profesor.png</file>
+        <file>res/proyector.png</file>
+        <file>res/pucp.png</file>
+    </qresource>
+</RCC>
